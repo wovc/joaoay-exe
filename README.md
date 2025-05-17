@@ -8,7 +8,7 @@
 <div align='center'>
   <h2>👨🏻‍💻 My Tech Stack</h2><br>
   <p align="center" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js" alt"Tech Stack logos">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind" alt"Tech Stack logos">
   </p>
    <br>
    <br>
@@ -19,7 +19,7 @@
 
 
 <h3 align= 'center'>
-  📧 Connect with me:
+  My Discord Profile
 </h3>
 
 <p align="center">
