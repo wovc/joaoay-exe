@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1238980032341348385">
-    <img src="https://lanyard.cnrad.dev/api/1238980032341348385" alt="Discord Presence">
+    <img src="https://api.victims.bio/discord/user/discord-arts/1238980032341348385/card" alt="discord" /> 
   </a>
 </p>
 
